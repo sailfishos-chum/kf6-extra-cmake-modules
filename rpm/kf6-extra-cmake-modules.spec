@@ -1,6 +1,6 @@
 Name:    kf6-extra-cmake-modules
 Summary: Additional modules for CMake build system
-Version: 6.28.0
+Version: 6.24.0
 Release: 0%{?dist}
 # Automatically converted from old format: BSD - review is highly recommended.
 License: LicenseRef-Callaway-BSD
